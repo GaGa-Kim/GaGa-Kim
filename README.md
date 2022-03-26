@@ -3,9 +3,9 @@
 <h3 align="center">🙋🏻‍♀️ Profile</h3>
 
 - Hi there👋 I'm Gagyeong Kim
-- Sookmyung women's university, IT Engineering 19th (2019.03 ~)
+- Sookmyung Women's University, IT Engineering 19th (2019.03 ~)
 - Google Developer Student Clubs, [GDSC](https://sites.google.com/view/dsc-sookmyung/home) Sookmyung Member (2021.09 ~)
-- SMWU programming club, [SOLUX](https://solux.tistory.com/) 27th Member (2022.03 ~)
+- SMWU Programming Club, [SOLUX](https://solux.tistory.com/) 27th Member (2022.03 ~)
 </br>
 
 <h3 align="center">💻 Tech</h3>
