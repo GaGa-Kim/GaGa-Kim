@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=210&section=header&text=GaGa-Kim&fontSize=40&fontAlign=85&fontAlignY=40&fontColor=f7f5f5&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=160&section=header&text=GaGa-Kim&fontSize=40&fontAlign=85&fontAlignY=30&fontColor=f7f5f5&animation=fadeIn)
 
 <h3 align="center">🙋🏻‍♀️ Profile</h3></br>
 
