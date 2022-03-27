@@ -37,7 +37,9 @@
    -->
 </p>
 <br>
-
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaGa-Kim&count_bg=%235DBBD9&title_bg=%235DBBD9&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+</p>
 <!-- 깃허브, 백준 주석처리
 |GitHub|solved.ac|
 |:-:|:-:|
