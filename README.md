@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=130&section=header&text=GaGa-Kim&fontSize=30&fontAlign=90&fontAlignY=27&fontColor=f7f5f5&animation=fadeIn)
 
 <p align="center">
-  Hi there👋 <b>I'm Gagyeong Kim</b> <br>
+  Hi there👋 <b>I'm Gagyeong Kim</b> <br><br>
   <a href="https://www.sookmyung.ac.kr/sookmyungkr/index.do">Sookmyung Women's University</a>, IT Engineering 19th (2019.03 ~) <br>
   Google Developer Student Clubs, <a href="https://sites.google.com/view/dsc-sookmyung/home">GDSC</a> Sookmyung Member (2021.09 ~) <br>
   SMWU Programming Club, <a href="https://solux.tistory.com/">SOLUX</a> 27th Member (2022.03 ~)
