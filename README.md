@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=130&section=header&text=GaGa-Kim&fontSize=30&fontAlign=90&fontAlignY=27&fontColor=f7f5f5&animation=fadeIn)
 <h3 align="center">🙋🏻‍♀️ Profile</h3>
 <p align="center">
-  <a href="mailto:wn8925@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp 
-  <a href="https://gaga-kim.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/> &nbsp 
+  <a href="mailto:wn8925@sookmyung.ac.kr"></a><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp 
+  <a href="https://gaga-kim.tistory.com/"></a><img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/> &nbsp <br>
 </p>
 
 - Hi there👋 I'm Gagyeong Kim
