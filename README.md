@@ -11,6 +11,8 @@
 - SMWU Programming Club, [SOLUX](https://solux.tistory.com/) 27th Member (2022.03 ~)
 
 <h3 align="center">💻 Tech</h3>
+    
+- 👩🏻‍💻 I’m currently learning Spring Boot JPA and AWS SAA
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp 
@@ -33,8 +35,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp 
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a> &nbsp 
 </p>
-- 👩🏻‍💻 I’m currently learning Spring Boot JPA and AWS SAA
-<br>
 
 <!-- 깃허브, 백준 주석처리
 |GitHub|solved.ac|
