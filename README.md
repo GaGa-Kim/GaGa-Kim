@@ -44,6 +44,6 @@
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
   <a href="mailto:wn8925@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/> &nbsp 
-  <img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/> &nbsp 
+  <a href="https://gaga-kim.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/> &nbsp 
 </p>
 
