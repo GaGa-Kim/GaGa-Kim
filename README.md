@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=130&section=header&text=GaGa-Kim&fontSize=30&fontAlign=90&fontAlignY=27&fontColor=f7f5f5&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc7d4,100:80d0f0&height=130&section=header&text=GaGa-Kim&fontSize=30&fontAlign=90&fontAlignY=27&fontColor=ffffff&animation=fadeIn)
 
 <h3 align="center">Hi there 👋 <b>I'm Gagyeong Kim</b> </h3>
 <p align="center">
