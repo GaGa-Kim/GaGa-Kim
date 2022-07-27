@@ -3,7 +3,7 @@
 <h3 align="center">Hi there 👋 <b>I'm GaGyeong Kim</b> </h3>
 <p align="center">
   <a href="https://www.sookmyung.ac.kr/sookmyungkr/index.do">Sookmyung Women's University</a>, IT Engineering 19th (2019.03 ~) <br>
-  Google Developer Student Clubs, <a href="https://sites.google.com/view/dsc-sookmyung/home">GDSC</a> Sookmyung 2nd Member (2021.09 ~) <br>
+  Google Developer Student Clubs, <a href="https://sites.google.com/view/dsc-sookmyung/home">GDSC</a> Sookmyung 2nd Member (2021.09 ~ 2022.07) <br>
   SMWU Programming Club, <a href="https://solux.tistory.com/">SOLUX</a> 27th Member (2022.03 ~) <br><br>
   <a href="mailto:wn8925@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
   <a href="https://gaga-kim.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/></a> &nbsp 
