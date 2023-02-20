@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.sookmyung.ac.kr/sookmyungkr/index.do">Sookmyung Women's University</a>, IT Engineering 19th (2019.03 ~) <br>
   Google Developer Student Clubs, <a href="https://sites.google.com/view/dsc-sookmyung/home">GDSC</a> Sookmyung 2nd Member (2021.09 ~ 2022.07) <br>
-  SMWU Programming Club, <a href="https://solux.tistory.com/">SOLUX</a> 27th Member (2022.03 ~) <br><br>
+  SMWU Programming Club, <a href="https://solux.tistory.com/">SOLUX</a> 27th Member (2022.03 ~ 2023.02) <br><br>
   <a href="mailto:wn8925@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
   <a href="https://www.linkedin.com/in/gaga-kim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
   <a href="https://gaga-kim.tistory.com/"><img src="https://img.shields.io/badge/Tech blog-black?style=flat-square&logo=Github&logoColor=write"/></a> &nbsp 
